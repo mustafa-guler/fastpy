@@ -1,2 +1,2 @@
-def testfunc:
+def testfunc():
     print "hello"
