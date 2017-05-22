@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(  name = "fastpy",
-        version = "1.0",
+        version = "0.1"
         description = "fastx functions",
         url = "https://github.com/mustafa-guler/fastpy",
         author = "Mustafa Guler",
