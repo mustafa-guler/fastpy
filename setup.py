@@ -1,10 +1,10 @@
 from setuptools import setup
 
-setup(  name = "fastpy",
-        version = "0.1",
+setup(  name = "fastxpy",
+        version = "1.0.0a2",
         description = "fastx functions",
         url = "https://github.com/mustafa-guler/fastpy",
         author = "Mustafa Guler",
-        packages = ["fastpy"],
+        packages = ["fastxpy"],
         zip_safe = False)
 
